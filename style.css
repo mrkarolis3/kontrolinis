@@ -1,0 +1,37 @@
+.nav-iteam{
+color: #04CFE2;
+margin-left: -0.8em;
+}
+.navbar{
+    background-color: #083B47;
+}
+.tekstas h1
+{
+    margin-left: 0.08em;
+    margin-top: 0.8em;
+    color:C21522;
+    font-size: 5em;
+    background-color: #B1CD8F;
+}
+.mainas p1{
+    margin-left: 0.8em;
+    background-color:#4449BE;
+    color:#E4BE56;
+}
+
+footer{
+    background-color: #4040B1;
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.footer .btn.btn-primary{
+    color: #CF5251;
+    margin-right: 20px;
+}
+body {
+    font-family: 'Open sans', sans-serif;
+    background-color: white;
+}
